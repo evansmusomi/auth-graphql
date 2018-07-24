@@ -1,10 +1,10 @@
 {
   "name": "users",
   "version": "1.0.0",
-  "description": "Starter pack for an auth-included graphql project",
+  "description": "Auth related graphql app",
   "repository": {
     "type": "git",
-    "url": "github.com/stephengrider"
+    "url": "github.com/evansmusomi"
   },
   "main": "index.js",
   "scripts": {
